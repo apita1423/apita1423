@@ -3,7 +3,7 @@
 I'm a librarian turned Full Stack Software Developer student. 
 
 - 🔭 I’m currently working towards a Full Stack Software Developer Diploma 🖥
-- 🌱 I’m currently learning Design Thinking
+- 🌱 I’m currently learning Agile Development
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: The most interesting part of my current job is walking 🦙 on a weekly basis
 
