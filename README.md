@@ -2,6 +2,8 @@
 
 I'm a librarian turned Full Stack Software Developer student. 
 
+  <img src="https://github.com/apita1423/apita1423/assets/39967820/7324e1b7-c486-454a-b8f3-3fe5451b8b1f" width="25%" height="25%"/>
+
 - 🔭 I’m currently working towards a Full Stack Software Developer Diploma 🖥
 - 🌱 I’m currently working on my fourth project! 
 - 😄 Pronouns: she/her
@@ -24,4 +26,4 @@ I'm a librarian turned Full Stack Software Developer student.
 ### Version Control
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-<img src="https://github.com/apita1423/apita1423/assets/39967820/7324e1b7-c486-454a-b8f3-3fe5451b8b1f" width="25%" height="25%"/>
+
