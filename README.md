@@ -1,6 +1,6 @@
 ### Hi, I'm Amanda  👋
 
-I'm a librarian turned Junior QA Enginneer!
+I'm a librarian turned Junior QA Engineer!
 
 - 🔭 I’m currently working towards a Full Stack Software Developer Diploma 🖥
 - 🌱 I’m currently working on my fourth project! 
