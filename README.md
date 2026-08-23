@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=e76f51&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Amanda!;Frontend+Developer;QA+Engineer;Robotics+Explorer;Snoopy+Fan;Space+Enthusiast;Professional+Bug+Hunter" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=e76f51&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Amanda!;Backend+Developer;QA+Engineer;Robotics+Explorer;Snoopy+Fan;Space+Enthusiast;Professional+Bug+Hunter" />
 </p>
 
 # 🧐 About Me
@@ -8,7 +8,7 @@
 
 👋 Hey, I'm Amanda!
 
-📚 Librarian → QA Engineer → Frontend Developer
+📚 Librarian → QA Engineer → Backend Developer
 *(plot twist career path…still processing)*
 
 ## 🐶 Snoopy Dev Mode
